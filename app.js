@@ -6,7 +6,7 @@ const checkAnswer = document.getElementById("checkAnswer");
 const answermessage = document.getElementById("answermessage");
 
 let answer ="";
-// console.log(draggables);
+console.log(draggables);
 
 checkAnswer.addEventListener('click',function(){
     const correctanswer="html";
